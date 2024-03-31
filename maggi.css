@@ -1,0 +1,1090 @@
+
+
+
+body {
+    background-color: black;
+
+}
+
+
+
+#one {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 53px;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: darkslategray;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+}
+
+.navbar a{
+    color:greenyellow;
+    text-decoration: none;
+    padding: 15px;
+    margin-left: 150px;
+    display: block;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.navbar a:hover{
+    background-color: hsl(0, 0%, 10%);
+}
+
+.navbar li{
+    float: left;
+}
+
+#two {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:greenyellow;
+    text-align: center;
+    background-color:seagreen;
+    height: 50px;
+    margin-bottom: 50px;
+}
+
+.help {
+    float: left;
+    width: 350px;
+    height: 350px;
+    padding-top: 5px;
+    margin-right: 20px;
+}
+
+#twenty {
+    margin-top: 5px;
+    text-align: left;
+    color: greenyellow;
+}
+
+
+#plz {
+    width: 350px;
+    height: 350px;
+    padding-top: 5px;
+    margin-right: 16px;
+    
+}
+
+#ol {
+
+    width: 350px;
+    height: 350px;
+    padding-top: 5px;
+
+}
+
+#slayy {
+    width: 300px;
+    height: 350px;
+    padding-top: 5px;
+    margin-left: 20px;
+} 
+
+#youcandoit {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    text-align: left;
+    margin-top: 100px;
+    font-size: 33px;
+}
+
+#nameofplant {
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#nameofplant1 {
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#nameofplant2 {
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#nameofplant3 {
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+
+.pn {
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    padding-left:150px;
+}
+.pn1 {
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    padding-left: 310px;
+}
+.pn2 {
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    padding-left: 310px;
+}
+.pn3 {
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    padding-left: 325px;
+}
+
+#window {
+    margin-top: 50px;
+    margin-left: 600px;
+    width: 250px;
+    background-color: seagreen;
+    color: greenyellow;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+#lego {
+    background-color: darkslategray;
+    color: #2f4f4f;
+    height:1px;
+    font-size: 0.01px;
+    margin-top: 15px;
+}
+
+#lie {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 23px;
+
+}
+#truth {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 17px;
+
+}
+
+#jimy {
+    width: 350px;
+    height: 350px;
+    margin-right: 200px;
+
+}
+#time {
+    width: 350px;
+    height: 350px;
+    
+
+}
+#web {
+    width: 350px;
+    height: 350px;
+    float: right;
+
+}
+
+.ps {
+
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 17px;
+    margin-top: 500px;
+    margin-left: 125px;
+    margin-right: 490px;
+
+}
+.ps1{
+
+    display: inline;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 17px;
+    margin-top: 500px;
+    margin-right: 450px;
+
+}
+.ps2{
+    display: inline;
+    color: greenyellow;
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 500px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#aboutuspage {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 23px;
+    float: right;
+    margin-right: 15px;
+    color: greenyellow;
+}
+
+
+.jeff {
+
+    width: 350px;
+    height: 350px;
+    padding-left: 100px;
+    padding-top: 50px;
+    transition: transform 0.3s;
+ 
+
+}
+
+.jeff:hover {
+    transform: scale(1.2);
+}
+
+
+.tab {
+    width: 320px;
+    height: 320px;
+}
+
+.jfi {
+    display: -webkit-flex;
+    display: flex;
+    height: 420px;
+    width: 1423px;
+    background-color: darkslategray;
+   
+
+  
+}
+
+.organ {
+    display: flex;
+    align-items: stretch;
+    margin-top: 15px;
+}
+
+.yes {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+   
+    text-align: center;
+
+}
+
+#sifra {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 43px;
+}
+
+#siphra {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 23px;
+}
+
+#iphra {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 23px;
+
+}
+
+#humane {
+    background-color: darkslategray;
+    height: 350px;
+    
+}
+
+#fusion {
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100px;
+   
+
+}
+
+#wellerman {
+    color: greenyellow;
+    background-color: seagreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.singh {
+   
+    background-color: darkslategray;
+    margin-right: 60px;
+    padding: 25px;
+}
+.singh1 {
+  
+    background-color: greenyellow;
+    margin-right: 30px;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.singh2 {
+  
+    background-color: darkslategray;
+    margin-right: 30px;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.singh3 {
+    
+    background-color: greenyellow;
+    margin-right: 30px;
+    padding: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.idpad {
+    display:inline;
+    width: 150px;
+}
+
+#cup {
+    font-size: 43px;
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+
+.box{
+    width: 300px;
+    height: 300px;
+    background: url(https://dubaigardencentre.ae/getimage/products/large-ac-planter-white-conical-fiber-cement-matt-18002786-01.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content {
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box:hover .overlay{
+    opacity: 1;
+}
+
+#vulture {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 43px;
+}
+
+.neber {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: seagreen;
+    font-size: 33px;
+
+}
+
+.box1{
+    width: 300px;
+    height: 300px;
+    background: url(https://www.ikea.com/ae/en/images/products/muskotblomma-plant-pot-with-saucer-in-outdoor-terracotta__1165497_pe890882_s5.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay1 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content1 {
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box1:hover .overlay1{
+    opacity: 1;
+}
+
+.box2{
+    width: 300px;
+    height: 300px;
+    background: url(https://m.media-amazon.com/images/I/61PxD+ca+xL.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay2 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content2 {
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box2:hover .overlay2{
+    opacity: 1;
+}
+
+.box3{
+    width: 300px;
+    height: 300px;
+    background: url(https://dubaigardencentre.ae/getimage/products/flowerpot_terra.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay3 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content3{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box3:hover .overlay3{
+    opacity: 1;
+}
+
+
+.box4{
+    width: 200px;
+    height: 300px;
+    background: url(https://i0.wp.com/exoticplantsouq.ae/wp-content/uploads/2020/08/fiber-clay-flower-planter-pots-exoticplantsouqae-3.jpg?fit=600%2C600&ssl=1);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay4 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content4{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box4:hover .overlay4{
+    opacity: 1;
+}
+
+#kao {
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 43px;
+    font-weight: bold;
+
+}
+
+.box5{
+    width: 300px;
+    height: 300px;
+    background: url(https://img.fruugo.com/product/7/49/176696497_max.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay5 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content5{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box5:hover .overlay5{
+    opacity: 1;
+}
+
+.box6{
+    width: 300px;
+    height: 300px;
+    background: url(https://suncoast.ae/media/catalog/product/cache/515c30754e5c6c357fda9a2130833cda/1/1/111042301.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay6 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content6{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box6:hover .overlay6{
+    opacity: 1;
+}
+
+.box7{
+    width: 300px;
+    height: 300px;
+    background: url(https://media.istockphoto.com/id/1299126254/photo/gold-watering-can.jpg?s=612x612&w=0&k=20&c=jNdwySD2OHPJGVv0Dgz3SGj0xfTxtwJLCRbOs1Ujhh4=);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay7 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content7{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box7:hover .overlay7{
+    opacity: 1;
+}
+.box8{
+    width: 300px;
+    height: 300px;
+    background: url(https://cdn.bloomingville.com/admin/public/getimage.ashx?Image=/Files/Images/Products/82048825.jpg&Width=480&Height=0&Format=jpg&Quality=75&Crop=0);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay8 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content8{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box8:hover .overlay8{
+    opacity: 1;
+}
+
+
+.box9{
+    width: 200px;
+    height: 300px;
+    background: url(https://m.media-amazon.com/images/I/51bZVjxUBQL.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay9 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content9{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box9:hover .overlay9{
+    opacity: 1;
+}
+
+#classy {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: greenyellow;
+    font-size: 43px;
+    font-weight: bold;
+}
+
+.box10{
+    width: 465px;
+    height: 300px;
+    background: url(https://m.media-amazon.com/images/I/71wYjwNsz-L._AC_UF1000,1000_QL80_.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay10 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content10{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box10:hover .overlay10{
+    opacity: 1;
+}
+
+.box11{
+    width: 465px;
+    height: 300px;
+    background: url(https://m.media-amazon.com/images/I/8197gigPkiS._AC_UF1000,1000_QL80_.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay11 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content11{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box11:hover .overlay11{
+    opacity: 1;
+}
+
+.box12{
+    width: 300px;
+    height: 300px;
+    background: url(https://m.media-amazon.com/images/I/610FuWdoXLL.jpg);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay12 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content12{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box12:hover .overlay12{
+    opacity: 1;
+}
+
+.box13{
+    width: 465px;
+    height: 400px;
+    background: url(https://cdn11.bigcommerce.com/s-tf2vn6/images/stencil/1280x1280/products/1165/3551/front-grey-res__05157.1691515154.jpg?c=2);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay13 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content13{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box13:hover .overlay13{
+    opacity: 1;
+}
+
+
+.box14{
+    width: 465px;
+    height: 400px;
+    background: url(https://hortology.co.uk/cdn/shop/files/Ficus-elastica-Melany-Rubber-Plant-14x45cm-Hadleigh-Plant-Pot-White-20x17.5cm_52335388-022e-4750-9c9f-54efbba9ea0a_1200x.jpg?v=1704197517);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay14 {
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content14{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box14:hover .overlay14{
+    opacity: 1;
+}
+
+.box15{
+    width: 465px;
+    height: 400px;
+    background: url(https://plantsworld.ae/cdn/shop/products/MoneyPlant-EpipremnumAureum_WhiteCeramicPot_100-120cm.jpg?v=1651254993&width=1214);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay15{
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content15{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box15:hover .overlay15{
+    opacity: 1;
+}
+
+.box16{
+    width: 465px;
+    height: 400px;
+    background: url(https://www.houseplant.co.uk/cdn/shop/files/monstera-shoot-pink.jpg?v=1707477997&width1946);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay16{
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content16{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box16:hover .overlay16{
+    opacity: 1;
+}
+
+.box17{
+    width: 465px;
+    height: 400px;
+    background: url(https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1655832348-177069mgp_20220104-1641314920601.jpg?crop=1xw:1.00xh;center,top&resize=980:*);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay17{
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content17{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box17:hover .overlay17{
+    opacity: 1;
+}
+
+
+.box18{
+    width: 465px;
+    height: 400px;
+    background: url(https://images.wsjcommerce.net/im-557182?width=1280&size=1);
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.overlay18{
+    height: 100%;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    opacity: 0;
+    transition: all 0.5s;
+}
+
+.content18{
+    color: greenyellow;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+
+
+}
+
+.box18:hover .overlay18{
+    opacity: 1;
+}
+
+#cruel {
+    font-size: 23px;
+    color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: darkslategray ;
+    margin-top: 50px;
+}
